@@ -1,0 +1,848 @@
+[
+  {
+    "name": "Lusso Chocolate",
+    "industry": "Food & Beverage",
+    "spend": "$41,137",
+    "accounts": "2",
+    "campaigns": "89",
+    "impressions": "11,854,650",
+    "clicks": "94,914"
+  },
+  {
+    "name": "1743190532531677",
+    "industry": "Unclassified",
+    "spend": "$18,118",
+    "accounts": "1",
+    "campaigns": "1",
+    "impressions": "0",
+    "clicks": "0"
+  },
+  {
+    "name": "I.Investment / SANAD",
+    "industry": "Real Estate & Property",
+    "spend": "$17,788",
+    "accounts": "2",
+    "campaigns": "31",
+    "impressions": "4,714,431",
+    "clicks": "59,525"
+  },
+  {
+    "name": "Meubles",
+    "industry": "Furniture, Interiors & Home",
+    "spend": "$15,468",
+    "accounts": "1",
+    "campaigns": "149",
+    "impressions": "18,439,555",
+    "clicks": "830,312"
+  },
+  {
+    "name": "Dakhly Luxury Footwear",
+    "industry": "Fashion & Apparel",
+    "spend": "$14,742",
+    "accounts": "1",
+    "campaigns": "50",
+    "impressions": "9,319,302",
+    "clicks": "335,215"
+  },
+  {
+    "name": "JOJA Store",
+    "industry": "Fashion & Apparel",
+    "spend": "$6,706",
+    "accounts": "2",
+    "campaigns": "19",
+    "impressions": "6,179,312",
+    "clicks": "992,202"
+  },
+  {
+    "name": "Arabs International Labs",
+    "industry": "Healthcare & Medical",
+    "spend": "$5,941",
+    "accounts": "2",
+    "campaigns": "21",
+    "impressions": "11,664,820",
+    "clicks": "315,719"
+  },
+  {
+    "name": "She Arts",
+    "industry": "Arts, Entertainment & Events",
+    "spend": "$5,724",
+    "accounts": "1",
+    "campaigns": "34",
+    "impressions": "6,728,186",
+    "clicks": "221,424"
+  },
+  {
+    "name": "Tree Core",
+    "industry": "Construction & Building Materials",
+    "spend": "$5,296",
+    "accounts": "3",
+    "campaigns": "20",
+    "impressions": "5,378,111",
+    "clicks": "176,183"
+  },
+  {
+    "name": "Foam Experts",
+    "industry": "Industrial & Manufacturing",
+    "spend": "$5,152",
+    "accounts": "1",
+    "campaigns": "27",
+    "impressions": "6,875,862",
+    "clicks": "257,343"
+  },
+  {
+    "name": "Q Burger",
+    "industry": "Food & Beverage",
+    "spend": "$4,610",
+    "accounts": "1",
+    "campaigns": "22",
+    "impressions": "10,759,398",
+    "clicks": "275,292"
+  },
+  {
+    "name": "Kady Holidays",
+    "industry": "Travel, Hospitality & Events",
+    "spend": "$4,439",
+    "accounts": "1",
+    "campaigns": "16",
+    "impressions": "1,585,948",
+    "clicks": "6,170"
+  },
+  {
+    "name": "Action Pizza",
+    "industry": "Food & Beverage",
+    "spend": "$4,322",
+    "accounts": "5",
+    "campaigns": "16",
+    "impressions": "3,506,860",
+    "clicks": "242,928"
+  },
+  {
+    "name": "ROOMZ",
+    "industry": "Furniture, Interiors & Home",
+    "spend": "$4,138",
+    "accounts": "1",
+    "campaigns": "13",
+    "impressions": "2,397,716",
+    "clicks": "88,566"
+  },
+  {
+    "name": "Build in Cairo Agency",
+    "industry": "Marketing & Business Services",
+    "spend": "$3,790",
+    "accounts": "4",
+    "campaigns": "18",
+    "impressions": "3,165,089",
+    "clicks": "24,959"
+  },
+  {
+    "name": "El Khema Restaurant",
+    "industry": "Food & Beverage",
+    "spend": "$3,730",
+    "accounts": "2",
+    "campaigns": "44",
+    "impressions": "9,095,378",
+    "clicks": "407,154"
+  },
+  {
+    "name": "Efrish Beitak",
+    "industry": "Furniture, Interiors & Home",
+    "spend": "$3,726",
+    "accounts": "2",
+    "campaigns": "4",
+    "impressions": "3,696,601",
+    "clicks": "287,479"
+  },
+  {
+    "name": "ALAHD Store",
+    "industry": "Retail & E-commerce",
+    "spend": "$3,717",
+    "accounts": "1",
+    "campaigns": "8",
+    "impressions": "4,167,298",
+    "clicks": "83,803"
+  },
+  {
+    "name": "Blask Finishing Solutions",
+    "industry": "Industrial & Manufacturing",
+    "spend": "$3,645",
+    "accounts": "1",
+    "campaigns": "41",
+    "impressions": "8,941,459",
+    "clicks": "135,251"
+  },
+  {
+    "name": "Le Ciel / Le Passage Hotels",
+    "industry": "Travel, Hospitality & Events",
+    "spend": "$3,530",
+    "accounts": "6",
+    "campaigns": "20",
+    "impressions": "2,185,264",
+    "clicks": "46,671"
+  },
+  {
+    "name": "Cute Girl Women's Wear",
+    "industry": "Fashion & Apparel",
+    "spend": "$3,364",
+    "accounts": "4",
+    "campaigns": "46",
+    "impressions": "2,502,392",
+    "clicks": "146,464"
+  },
+  {
+    "name": "Salma Boutique",
+    "industry": "Fashion & Apparel",
+    "spend": "$3,298",
+    "accounts": "1",
+    "campaigns": "18",
+    "impressions": "2,121,361",
+    "clicks": "53,721"
+  },
+  {
+    "name": "Dr Mohamed / Tamer Safwat",
+    "industry": "Healthcare & Medical",
+    "spend": "$3,271",
+    "accounts": "3",
+    "campaigns": "21",
+    "impressions": "4,671,969",
+    "clicks": "132,679"
+  },
+  {
+    "name": "Dr Heba Metwally",
+    "industry": "Healthcare & Medical",
+    "spend": "$3,136",
+    "accounts": "1",
+    "campaigns": "20",
+    "impressions": "5,067,233",
+    "clicks": "187,121"
+  },
+  {
+    "name": "Tarh El Bahr Seafood",
+    "industry": "Food & Beverage",
+    "spend": "$2,960",
+    "accounts": "4",
+    "campaigns": "25",
+    "impressions": "3,767,775",
+    "clicks": "230,790"
+  },
+  {
+    "name": "Foamco Group",
+    "industry": "Industrial & Manufacturing",
+    "spend": "$2,863",
+    "accounts": "2",
+    "campaigns": "20",
+    "impressions": "3,942,564",
+    "clicks": "156,482"
+  },
+  {
+    "name": "Mohamed El-sayed Hafez",
+    "industry": "Fashion & Apparel",
+    "spend": "$2,715",
+    "accounts": "1",
+    "campaigns": "34",
+    "impressions": "3,307,869",
+    "clicks": "202,511"
+  },
+  {
+    "name": "Big Size Triple",
+    "industry": "Fashion & Apparel",
+    "spend": "$2,575",
+    "accounts": "5",
+    "campaigns": "41",
+    "impressions": "2,881,870",
+    "clicks": "215,133"
+  },
+  {
+    "name": "El Briky",
+    "industry": "Food & Beverage",
+    "spend": "$2,574",
+    "accounts": "4",
+    "campaigns": "22",
+    "impressions": "1,551,418",
+    "clicks": "90,462"
+  },
+  {
+    "name": "New Star / Al Motaheda",
+    "industry": "Industrial & Manufacturing",
+    "spend": "$2,427",
+    "accounts": "2",
+    "campaigns": "17",
+    "impressions": "2,286,282",
+    "clicks": "67,308"
+  },
+  {
+    "name": "House Nursing",
+    "industry": "Healthcare & Medical",
+    "spend": "$2,391",
+    "accounts": "2",
+    "campaigns": "7",
+    "impressions": "3,651,877",
+    "clicks": "146,982"
+  },
+  {
+    "name": "UAE Leather",
+    "industry": "Fashion & Apparel",
+    "spend": "$2,359",
+    "accounts": "1",
+    "campaigns": "31",
+    "impressions": "343,442",
+    "clicks": "12,311"
+  },
+  {
+    "name": "Nemo Seafood",
+    "industry": "Food & Beverage",
+    "spend": "$2,311",
+    "accounts": "1",
+    "campaigns": "23",
+    "impressions": "5,840,465",
+    "clicks": "71,547"
+  },
+  {
+    "name": "Cotton Home",
+    "industry": "Fashion & Apparel",
+    "spend": "$2,269",
+    "accounts": "1",
+    "campaigns": "20",
+    "impressions": "4,237,341",
+    "clicks": "42,126"
+  },
+  {
+    "name": "Egyptian Office Furniture",
+    "industry": "Furniture, Interiors & Home",
+    "spend": "$2,199",
+    "accounts": "2",
+    "campaigns": "8",
+    "impressions": "1,205,843",
+    "clicks": "104,329"
+  },
+  {
+    "name": "Salsabella Modest Wear",
+    "industry": "Fashion & Apparel",
+    "spend": "$2,169",
+    "accounts": "1",
+    "campaigns": "6",
+    "impressions": "2,948,090",
+    "clicks": "313,793"
+  },
+  {
+    "name": "International Pressure Systems",
+    "industry": "Industrial & Manufacturing",
+    "spend": "$2,062",
+    "accounts": "1",
+    "campaigns": "6",
+    "impressions": "2,996,140",
+    "clicks": "50,941"
+  },
+  {
+    "name": "Ma2kolat El Sham",
+    "industry": "Food & Beverage",
+    "spend": "$1,965",
+    "accounts": "6",
+    "campaigns": "21",
+    "impressions": "2,110,119",
+    "clicks": "132,573"
+  },
+  {
+    "name": "Cairo Zoo",
+    "industry": "Retail & E-commerce",
+    "spend": "$1,947",
+    "accounts": "1",
+    "campaigns": "7",
+    "impressions": "1,281,386",
+    "clicks": "50,967"
+  },
+  {
+    "name": "Egyptian-Italian Concrete",
+    "industry": "Construction & Building Materials",
+    "spend": "$1,946",
+    "accounts": "1",
+    "campaigns": "23",
+    "impressions": "1,437,812",
+    "clicks": "36,557"
+  },
+  {
+    "name": "Thebes Pastry",
+    "industry": "Food & Beverage",
+    "spend": "$1,882",
+    "accounts": "1",
+    "campaigns": "6",
+    "impressions": "8,708,390",
+    "clicks": "354,812"
+  },
+  {
+    "name": "HydroRacks",
+    "industry": "Industrial & Manufacturing",
+    "spend": "$1,668",
+    "accounts": "1",
+    "campaigns": "2",
+    "impressions": "1,661,750",
+    "clicks": "33,841"
+  },
+  {
+    "name": "Cucina Art Kitchens",
+    "industry": "Furniture, Interiors & Home",
+    "spend": "$1,629",
+    "accounts": "2",
+    "campaigns": "23",
+    "impressions": "1,191,907",
+    "clicks": "20,656"
+  },
+  {
+    "name": "CanGrow Group",
+    "industry": "Marketing & Business Services",
+    "spend": "$1,587",
+    "accounts": "6",
+    "campaigns": "38",
+    "impressions": "768,893",
+    "clicks": "27,740"
+  },
+  {
+    "name": "Perla Beirut Clinics",
+    "industry": "Beauty & Personal Care",
+    "spend": "$1,508",
+    "accounts": "2",
+    "campaigns": "8",
+    "impressions": "1,083,384",
+    "clicks": "54,536"
+  },
+  {
+    "name": "Watex Egypt",
+    "industry": "Energy, Water & HVAC",
+    "spend": "$1,488",
+    "accounts": "1",
+    "campaigns": "24",
+    "impressions": "1,130,985",
+    "clicks": "72,097"
+  },
+  {
+    "name": "Dr Samir Ahmed Kamel Clinic",
+    "industry": "Healthcare & Medical",
+    "spend": "$1,352",
+    "accounts": "1",
+    "campaigns": "11",
+    "impressions": "3,759,190",
+    "clicks": "144,626"
+  },
+  {
+    "name": "Taqatna Solar",
+    "industry": "Energy, Water & HVAC",
+    "spend": "$1,309",
+    "accounts": "1",
+    "campaigns": "6",
+    "impressions": "181,140",
+    "clicks": "2,749"
+  },
+  {
+    "name": "Adams Analytics",
+    "industry": "Technology & SaaS",
+    "spend": "$1,165",
+    "accounts": "2",
+    "campaigns": "28",
+    "impressions": "7,730,686",
+    "clicks": "93,128"
+  },
+  {
+    "name": "GTS",
+    "industry": "Industrial & Manufacturing",
+    "spend": "$1,149",
+    "accounts": "1",
+    "campaigns": "2",
+    "impressions": "2,722,786",
+    "clicks": "74,079"
+  },
+  {
+    "name": "Formence Design Solutions",
+    "industry": "Furniture, Interiors & Home",
+    "spend": "$1,060",
+    "accounts": "2",
+    "campaigns": "23",
+    "impressions": "4,803,703",
+    "clicks": "24,356"
+  },
+  {
+    "name": "Al Soltan Sweets",
+    "industry": "Food & Beverage",
+    "spend": "$1,046",
+    "accounts": "1",
+    "campaigns": "4",
+    "impressions": "2,287,719",
+    "clicks": "90,589"
+  },
+  {
+    "name": "El Kady Steel",
+    "industry": "Industrial & Manufacturing",
+    "spend": "$945",
+    "accounts": "1",
+    "campaigns": "6",
+    "impressions": "1,765,755",
+    "clicks": "160,713"
+  },
+  {
+    "name": "Prime Butcher",
+    "industry": "Food & Beverage",
+    "spend": "$832",
+    "accounts": "3",
+    "campaigns": "8",
+    "impressions": "296,795",
+    "clicks": "26,654"
+  },
+  {
+    "name": "Sajda",
+    "industry": "Retail & E-commerce",
+    "spend": "$772",
+    "accounts": "1",
+    "campaigns": "6",
+    "impressions": "466,704",
+    "clicks": "30,215"
+  },
+  {
+    "name": "Modishhome",
+    "industry": "Furniture, Interiors & Home",
+    "spend": "$742",
+    "accounts": "1",
+    "campaigns": "6",
+    "impressions": "85,441",
+    "clicks": "328"
+  },
+  {
+    "name": "Dalia Dawood Kitchens",
+    "industry": "Furniture, Interiors & Home",
+    "spend": "$734",
+    "accounts": "2",
+    "campaigns": "6",
+    "impressions": "845,041",
+    "clicks": "36,299"
+  },
+  {
+    "name": "City Mall Al-Qanater",
+    "industry": "Retail & E-commerce",
+    "spend": "$693",
+    "accounts": "3",
+    "campaigns": "14",
+    "impressions": "1,123,529",
+    "clicks": "49,210"
+  },
+  {
+    "name": "Power Plus HVAC",
+    "industry": "Energy, Water & HVAC",
+    "spend": "$686",
+    "accounts": "1",
+    "campaigns": "4",
+    "impressions": "353,561",
+    "clicks": "5,680"
+  },
+  {
+    "name": "HMT Group",
+    "industry": "Financial & Professional Services",
+    "spend": "$681",
+    "accounts": "1",
+    "campaigns": "8",
+    "impressions": "453,852",
+    "clicks": "14,425"
+  },
+  {
+    "name": "Ganna Perfumes",
+    "industry": "Beauty & Personal Care",
+    "spend": "$619",
+    "accounts": "1",
+    "campaigns": "10",
+    "impressions": "1,186,982",
+    "clicks": "17,472"
+  },
+  {
+    "name": "Soroh Al-Theqa",
+    "industry": "Furniture, Interiors & Home",
+    "spend": "$585",
+    "accounts": "1",
+    "campaigns": "8",
+    "impressions": "990,171",
+    "clicks": "27,640"
+  },
+  {
+    "name": "CG - Linor - Client Visa",
+    "industry": "Unclassified",
+    "spend": "$553",
+    "accounts": "1",
+    "campaigns": "1",
+    "impressions": "0",
+    "clicks": "0"
+  },
+  {
+    "name": "Armoured Group",
+    "industry": "Automotive",
+    "spend": "$544",
+    "accounts": "1",
+    "campaigns": "11",
+    "impressions": "1,017,203",
+    "clicks": "43,416"
+  },
+  {
+    "name": "King of Oud",
+    "industry": "Beauty & Personal Care",
+    "spend": "$491",
+    "accounts": "2",
+    "campaigns": "3",
+    "impressions": "769",
+    "clicks": "12"
+  },
+  {
+    "name": "Care Zone Cosmetics",
+    "industry": "Beauty & Personal Care",
+    "spend": "$435",
+    "accounts": "1",
+    "campaigns": "13",
+    "impressions": "582,274",
+    "clicks": "18,878"
+  },
+  {
+    "name": "Housing / Home Unit",
+    "industry": "Real Estate & Property",
+    "spend": "$406",
+    "accounts": "2",
+    "campaigns": "7",
+    "impressions": "412,343",
+    "clicks": "29,386"
+  },
+  {
+    "name": "Nokhba",
+    "industry": "Retail & E-commerce",
+    "spend": "$375",
+    "accounts": "1",
+    "campaigns": "4",
+    "impressions": "42,163",
+    "clicks": "1,751"
+  },
+  {
+    "name": "Zero Sweet",
+    "industry": "Food & Beverage",
+    "spend": "$370",
+    "accounts": "1",
+    "campaigns": "4",
+    "impressions": "347,029",
+    "clicks": "16,905"
+  },
+  {
+    "name": "CG- RGS Account 5 (10K)",
+    "industry": "Unclassified",
+    "spend": "$325",
+    "accounts": "1",
+    "campaigns": "1",
+    "impressions": "0",
+    "clicks": "0"
+  },
+  {
+    "name": "Salma boutique",
+    "industry": "Fashion & Apparel",
+    "spend": "$289",
+    "accounts": "1",
+    "campaigns": "17",
+    "impressions": "279,338",
+    "clicks": "15,638"
+  },
+  {
+    "name": "MUR Interiors",
+    "industry": "Furniture, Interiors & Home",
+    "spend": "$254",
+    "accounts": "1",
+    "campaigns": "4",
+    "impressions": "174,047",
+    "clicks": "2,801"
+  },
+  {
+    "name": "Lovely Kids",
+    "industry": "Fashion & Apparel",
+    "spend": "$229",
+    "accounts": "1",
+    "campaigns": "6",
+    "impressions": "531,433",
+    "clicks": "108,632"
+  },
+  {
+    "name": "AD 1",
+    "industry": "Unclassified",
+    "spend": "$208",
+    "accounts": "1",
+    "campaigns": "1",
+    "impressions": "0",
+    "clicks": "0"
+  },
+  {
+    "name": "Limoné Club",
+    "industry": "Fashion & Apparel",
+    "spend": "$201",
+    "accounts": "1",
+    "campaigns": "3",
+    "impressions": "66,652",
+    "clicks": "2,572"
+  },
+  {
+    "name": "922606342909386",
+    "industry": "Fashion & Apparel",
+    "spend": "$200",
+    "accounts": "1",
+    "campaigns": "9",
+    "impressions": "51,105",
+    "clicks": "2,553"
+  },
+  {
+    "name": "Banora",
+    "industry": "Food & Beverage",
+    "spend": "$156",
+    "accounts": "2",
+    "campaigns": "3",
+    "impressions": "181,229",
+    "clicks": "9,622"
+  },
+  {
+    "name": "Beautiful House",
+    "industry": "Furniture, Interiors & Home",
+    "spend": "$140",
+    "accounts": "1",
+    "campaigns": "1",
+    "impressions": "127,481",
+    "clicks": "4,040"
+  },
+  {
+    "name": "CG - Germano - Client Fawry",
+    "industry": "Unclassified",
+    "spend": "$120",
+    "accounts": "1",
+    "campaigns": "1",
+    "impressions": "0",
+    "clicks": "0"
+  },
+  {
+    "name": "Tire Trade",
+    "industry": "Automotive",
+    "spend": "$105",
+    "accounts": "1",
+    "campaigns": "2",
+    "impressions": "20,470",
+    "clicks": "276"
+  },
+  {
+    "name": "CG - asia - client visa",
+    "industry": "Unclassified",
+    "spend": "$76",
+    "accounts": "1",
+    "campaigns": "1",
+    "impressions": "0",
+    "clicks": "0"
+  },
+  {
+    "name": "Be Unique Boutique",
+    "industry": "Fashion & Apparel",
+    "spend": "$75",
+    "accounts": "1",
+    "campaigns": "2",
+    "impressions": "20,873",
+    "clicks": "1,019"
+  },
+  {
+    "name": "Alex Power Machinery",
+    "industry": "Industrial & Manufacturing",
+    "spend": "$66",
+    "accounts": "2",
+    "campaigns": "4",
+    "impressions": "41,581",
+    "clicks": "1,189"
+  },
+  {
+    "name": "Coregate Property",
+    "industry": "Real Estate & Property",
+    "spend": "$63",
+    "accounts": "2",
+    "campaigns": "3",
+    "impressions": "16,366",
+    "clicks": "167"
+  },
+  {
+    "name": "Casa Design",
+    "industry": "Furniture, Interiors & Home",
+    "spend": "$50",
+    "accounts": "1",
+    "campaigns": "2",
+    "impressions": "28,213",
+    "clicks": "1,295"
+  },
+  {
+    "name": "ss",
+    "industry": "Unclassified",
+    "spend": "$45",
+    "accounts": "1",
+    "campaigns": "1",
+    "impressions": "0",
+    "clicks": "0"
+  },
+  {
+    "name": "Rio Car",
+    "industry": "Automotive",
+    "spend": "$29",
+    "accounts": "1",
+    "campaigns": "2",
+    "impressions": "25,329",
+    "clicks": "1,410"
+  },
+  {
+    "name": "Luxurious Brands",
+    "industry": "Fashion & Apparel",
+    "spend": "$21",
+    "accounts": "2",
+    "campaigns": "5",
+    "impressions": "13,857",
+    "clicks": "934"
+  },
+  {
+    "name": "Derma Clinics",
+    "industry": "Beauty & Personal Care",
+    "spend": "$16",
+    "accounts": "1",
+    "campaigns": "2",
+    "impressions": "6,632",
+    "clicks": "106"
+  },
+  {
+    "name": "Luxury gate",
+    "industry": "Fashion & Apparel",
+    "spend": "$12",
+    "accounts": "1",
+    "campaigns": "1",
+    "impressions": "9,515",
+    "clicks": "83"
+  },
+  {
+    "name": "Modish Home",
+    "industry": "Furniture, Interiors & Home",
+    "spend": "$5",
+    "accounts": "1",
+    "campaigns": "1",
+    "impressions": "97",
+    "clicks": "8"
+  },
+  {
+    "name": "Mohamed El-Sayed Hafez",
+    "industry": "Unclassified",
+    "spend": "$4",
+    "accounts": "1",
+    "campaigns": "1",
+    "impressions": "0",
+    "clicks": "0"
+  },
+  {
+    "name": "CG - Hoopoe - Client Visa",
+    "industry": "Unclassified",
+    "spend": "$3",
+    "accounts": "1",
+    "campaigns": "1",
+    "impressions": "0",
+    "clicks": "0"
+  },
+  {
+    "name": "Engineering Foundation",
+    "industry": "Industrial & Manufacturing",
+    "spend": "$1",
+    "accounts": "1",
+    "campaigns": "2",
+    "impressions": "295",
+    "clicks": "13"
+  }
+]

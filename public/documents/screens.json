@@ -1,0 +1,277 @@
+[
+  {
+    "file": "a01-dashboard.jpg",
+    "label": "Dashboard",
+    "group": "Ads & Insights"
+  },
+  {
+    "file": "a02-connect.jpg",
+    "label": "Connect",
+    "group": "Ads & Insights"
+  },
+  {
+    "file": "a03-ads-summary.jpg",
+    "label": "Ads Summary",
+    "group": "Ads & Insights"
+  },
+  {
+    "file": "a04-account-detail.jpg",
+    "label": "Account Detail",
+    "group": "Ads & Insights"
+  },
+  {
+    "file": "a05-account-detail-cards.jpg",
+    "label": "Account Detail Cards",
+    "group": "Ads & Insights"
+  },
+  {
+    "file": "a06-account-detail-table.jpg",
+    "label": "Account Detail Table",
+    "group": "Ads & Insights"
+  },
+  {
+    "file": "a07-account-compare.jpg",
+    "label": "Account Compare",
+    "group": "Ads & Insights"
+  },
+  {
+    "file": "a08-account-compare-story.jpg",
+    "label": "Account Compare Story",
+    "group": "Ads & Insights"
+  },
+  {
+    "file": "a09-open-report.jpg",
+    "label": "Open Report",
+    "group": "Ads & Insights"
+  },
+  {
+    "file": "a10-website-purchase.jpg",
+    "label": "Website Purchase",
+    "group": "Ads & Insights"
+  },
+  {
+    "file": "a11-website-purchase-funnel.jpg",
+    "label": "Website Purchase Funnel",
+    "group": "Ads & Insights"
+  },
+  {
+    "file": "a12-ads-creative.jpg",
+    "label": "Ads Creative",
+    "group": "Ads & Insights"
+  },
+  {
+    "file": "a13-ads-creative-cards.jpg",
+    "label": "Ads Creative Cards",
+    "group": "Ads & Insights"
+  },
+  {
+    "file": "a14-funds.jpg",
+    "label": "Funds",
+    "group": "Ads & Insights"
+  },
+  {
+    "file": "a16-ads-settings.jpg",
+    "label": "Ads Settings",
+    "group": "Ads & Insights"
+  },
+  {
+    "file": "a17-profile-summary.jpg",
+    "label": "Profile Summary",
+    "group": "Ads & Insights"
+  },
+  {
+    "file": "a18-profile-summary-2.jpg",
+    "label": "Profile Summary 2",
+    "group": "Ads & Insights"
+  },
+  {
+    "file": "a19-profile-content-feed.jpg",
+    "label": "Profile Content Feed",
+    "group": "Ads & Insights"
+  },
+  {
+    "file": "a20-profile-growth.jpg",
+    "label": "Profile Growth",
+    "group": "Ads & Insights"
+  },
+  {
+    "file": "a21-profile-impressions.jpg",
+    "label": "Profile Impressions",
+    "group": "Ads & Insights"
+  },
+  {
+    "file": "a22-profile-engagement.jpg",
+    "label": "Profile Engagement",
+    "group": "Ads & Insights"
+  },
+  {
+    "file": "a23-profile-link-clicks.jpg",
+    "label": "Profile Link Clicks",
+    "group": "Ads & Insights"
+  },
+  {
+    "file": "a24-profile-day-time.jpg",
+    "label": "Profile Day Time",
+    "group": "Ads & Insights"
+  },
+  {
+    "file": "a25-profile-content-themes.jpg",
+    "label": "Profile Content Themes",
+    "group": "Ads & Insights"
+  },
+  {
+    "file": "a26-profile-video.jpg",
+    "label": "Profile Video",
+    "group": "Ads & Insights"
+  },
+  {
+    "file": "a27-ig-overview.jpg",
+    "label": "Ig Overview",
+    "group": "Instagram"
+  },
+  {
+    "file": "a28-ig-overview-2.jpg",
+    "label": "Ig Overview 2",
+    "group": "Instagram"
+  },
+  {
+    "file": "a29-ig-content.jpg",
+    "label": "Ig Content",
+    "group": "Instagram"
+  },
+  {
+    "file": "a30-ig-growth.jpg",
+    "label": "Ig Growth",
+    "group": "Instagram"
+  },
+  {
+    "file": "a31-ig-reach.jpg",
+    "label": "Ig Reach",
+    "group": "Instagram"
+  },
+  {
+    "file": "a32-ig-engagement.jpg",
+    "label": "Ig Engagement",
+    "group": "Instagram"
+  },
+  {
+    "file": "a33-ig-reels.jpg",
+    "label": "Ig Reels",
+    "group": "Instagram"
+  },
+  {
+    "file": "a34-ig-audience.jpg",
+    "label": "Ig Audience",
+    "group": "Instagram"
+  },
+  {
+    "file": "a35-reports.jpg",
+    "label": "Reports",
+    "group": "Ads & Insights"
+  },
+  {
+    "file": "a36-notifications.jpg",
+    "label": "Notifications",
+    "group": "Ads & Insights"
+  },
+  {
+    "file": "a39-pricing-signed-in.jpg",
+    "label": "Pricing Signed In",
+    "group": "Ads & Insights"
+  },
+  {
+    "file": "a40-account-detail-ar.jpg",
+    "label": "Account Detail Ar",
+    "group": "Arabic & Mobile"
+  },
+  {
+    "file": "a41-profile-ar.jpg",
+    "label": "Profile Ar",
+    "group": "Arabic & Mobile"
+  },
+  {
+    "file": "a42-account-detail-mobile.jpg",
+    "label": "Account Detail Mobile",
+    "group": "Arabic & Mobile"
+  },
+  {
+    "file": "a43-dashboard-mobile.jpg",
+    "label": "Dashboard Mobile",
+    "group": "Arabic & Mobile"
+  },
+  {
+    "file": "a44-ig-mobile.jpg",
+    "label": "Ig Mobile",
+    "group": "Arabic & Mobile"
+  },
+  {
+    "file": "p01-home.jpg",
+    "label": "Home",
+    "group": "Website"
+  },
+  {
+    "file": "p02-home-features.jpg",
+    "label": "Home Features",
+    "group": "Website"
+  },
+  {
+    "file": "p03-home-pricing.jpg",
+    "label": "Home Pricing",
+    "group": "Website"
+  },
+  {
+    "file": "p04-pricing.jpg",
+    "label": "Pricing",
+    "group": "Website"
+  },
+  {
+    "file": "p05-how-it-works.jpg",
+    "label": "How It Works",
+    "group": "Website"
+  },
+  {
+    "file": "p06-blog.jpg",
+    "label": "Blog",
+    "group": "Website"
+  },
+  {
+    "file": "p07-blog-article.jpg",
+    "label": "Blog Article",
+    "group": "Website"
+  },
+  {
+    "file": "p08-signin.jpg",
+    "label": "Signin",
+    "group": "Website"
+  },
+  {
+    "file": "p09-register.jpg",
+    "label": "Register",
+    "group": "Website"
+  },
+  {
+    "file": "p10-security.jpg",
+    "label": "Security",
+    "group": "Website"
+  },
+  {
+    "file": "p11-home-ar.jpg",
+    "label": "Home Ar",
+    "group": "Website"
+  },
+  {
+    "file": "p12-pricing-ar.jpg",
+    "label": "Pricing Ar",
+    "group": "Website"
+  },
+  {
+    "file": "p13-home-mobile.jpg",
+    "label": "Home Mobile",
+    "group": "Website"
+  },
+  {
+    "file": "p14-home-ar-mobile.jpg",
+    "label": "Home Ar Mobile",
+    "group": "Website"
+  }
+]
